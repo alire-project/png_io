@@ -1,3 +1,5 @@
+with "zlib";
+
 project Png_Io is
 
    for Source_Dirs use ("src");

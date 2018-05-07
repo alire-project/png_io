@@ -18,6 +18,8 @@
 #                                                       Steve Sangwine
 #                                       sangwine@users.sourceforge.net
 #                                                        November 2011
+ln -sf bin/* .
+mkdir -f PngSuite
 cd PngSuite
 mkdir out
 if

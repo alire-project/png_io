@@ -8,7 +8,7 @@ project Png_Io is
    for Main use ("png_chunks.adb", 
                  "png_compare.adb",
                  "png_dump.adb",
-                 "png_properties.adb"
+                 "png_properties.adb",
                  "png_test.adb");
 
    package Builder is
